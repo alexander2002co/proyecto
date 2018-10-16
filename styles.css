@@ -1,0 +1,151 @@
+*{
+	border:0;
+	margin:2px;
+	padding:0; //*https://wwwch?v=JJyc90CqzDA&ab_channel=YanDavidBurbanoAmariles*//
+}
+body{
+	background-image: #ccc;
+}
+#contenedor{
+	box-shadow: 5px 5px 10px rgba(255,255,255,0.8);
+	border-radius: 5px;
+	border:solid #fff;
+	margin-top: 10px;
+	height: 1050px;
+	width: 850px;
+	margin-right: auto;
+	margin-left:auto; 
+}
+header, #banner, #noticias, #tienda #marcas{
+	background:#ccc;
+	width: 250px
+	height:100px;
+}
+header{
+	width: 750px;
+	height:100px;
+	padding:8px 15px; 
+}
+
+header h1{
+	background:#ccc;
+	width: 240px;
+	height:100px;
+	display: inline-block;
+	vertical-align: middle;
+}
+header #menu{
+	background:#777;
+	width: 440px;
+	height: 100px;
+	display:inline-block;
+	vertical-align: middle;
+}
+#banner{
+	background:#777;
+	height: 300px;
+
+}
+#noticias{
+	background:#fff;
+	height: 225px;
+	width: 760px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top:5px;
+	text-align: center;
+
+}
+#tienda{
+	width: 760px;
+	background:#777;
+	height: 180px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top:5px;
+	text-align: center;
+
+}
+#marcas{
+	background:#fff;
+	height: 100px;
+
+}
+footer{
+	background:#f21;
+	width: 780;
+	height: 40px;
+	padding-top: 15px;
+
+}
+footer p{
+	font-family: arial;
+	font-size: 10px;
+	text-align: center;
+
+}
+
+#notcias #noticia1{
+	background:#999;
+	width: 250px;
+	height:215px;
+	display: inline-block;
+	vertical-align:top;
+
+}
+#notcias #noticia2{
+	background:#B08312;
+	width: 250px;
+	height:215px;
+	display: inline-block;
+	vertical-align:top;
+}
+#notcias #noticia3{
+	background:#F98E13;
+	width: 250px;
+	height:215px;
+	display: inline-block;
+	vertical-align:top;
+}
+.espacio{
+	max-width: 760px;
+	height: 10px;
+}
+#tienda #producto1{
+	background:#F98E13;
+	width: 170px;
+	height:180px;
+	display: inline-block;
+	vertical-align:top;
+	margin: 0px 2px;
+}
+
+#tienda #producto2{
+	background:#F98E13;
+	width: 170px;
+	height:180px;
+	display: inline-block;
+	vertical-align:top;
+	margin: 0px 2px;
+}
+
+#tienda #producto3{
+	background:#F98E13;
+	width: 170px;
+	height:180px;
+	display: inline-block;
+	vertical-align:top;
+	margin: 0px 2px;
+}
+
+#tienda #producto4{
+	background:#F98E13;
+	width: 170px;
+	height:180px;
+	display: inline-block;
+	vertical-align:top;
+	margin: 0px 2px;
+}
+
+
+
